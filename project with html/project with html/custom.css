@@ -1,0 +1,16 @@
+.hero_image{
+    background: url(image/ejsd.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    height: 100vh;
+    position: relative;
+}
+.hero_wrapper{
+ color:black;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+ font-size:larger;
+}
